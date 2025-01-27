@@ -6,9 +6,11 @@ Data Science and Analytics course for Non-tech Participants
 ### Please provide your daily feedback via the link [here](https://futurepicx.com/feedback?id=BFCB30C2-470F-434B-BD94-53A0C77F7AE6)
 
 ## Day 1: Introduction to Data Science
-[1. Introduction to Data Science](https://github.com/cksajil/DSANonTech/blob/main/Day_1/00_Intro_to_DSA.pdf)
+[1. Introduction to Data Science](https://github.com/cksajil/DSANonTech/blob/main/Day_1/01_Intro_to_DSA.pdf)
 
-[2. Setting up Environment](https://github.com/cksajil/DSANonTech/blob/main/Day_1/01_Setting_Up_Environment.pdf)
+[2. Setting up Environment](https://github.com/cksajil/DSANonTech/blob/main/Day_1/02_Setting_Up_Environment.pdf)
+
+[3. Commandline Setup](https://github.com/cksajil/DSANonTech/blob/main/Day_1/03_Command_Line_Setup.pdf)
   
 ## Day 2: Introduction to Python Programming
 [1. Python_Datatypes_Operators.ipynb](https://github.com/cksajil/DSANonTech/blob/main/Day_2/01_Python_Datatypes_Operators.ipynb)
@@ -32,8 +34,10 @@ Data Science and Analytics course for Non-tech Participants
 [2. Logistic_Regression_KNN.ipynb](https://github.com/cksajil/DSANonTech/blob/main/Day_4/02_Logistic_Regression_KNN.ipynb)
 
 ## Day 5: Data Science Tools
-[1. LaTeXTutorial.pdf](https://github.com/cksajil/DSANonTech/blob/main/Day_5/LaTeXTutorial.pdf)
+[1. LaTeXTutorial.pdf](https://github.com/cksajil/DSANonTech/blob/main/Day_5/01_LaTeXTutorial.pdf)
 
-[2. Command Line Basics](https://intuitivetutorial.com/2021/06/11/linux-terminal-basics/)
+[2. Command Line Basics](https://github.com/cksajil/DSANonTech/blob/main/Day_5/02_Terminal_Basics.pdf)
+
+[Blog](https://intuitivetutorial.com/2021/06/11/linux-terminal-basics/)
 
 [3. GitHub Tutorial]()
