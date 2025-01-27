@@ -35,6 +35,7 @@ Data Science and Analytics course for Non-tech Participants
 
 ## Day 5: Data Science Tools
 [1. LaTeXTutorial.pdf](https://github.com/cksajil/DSANonTech/blob/main/Day_5/01_LaTeXTutorial.pdf)
+
 [Blog](https://intuitivetutorial.com/2020/11/10/latex-tutorial/)
 
 [2. Command Line Basics](https://github.com/cksajil/DSANonTech/blob/main/Day_5/02_Terminal_Basics.pdf)
