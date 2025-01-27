@@ -42,3 +42,5 @@ Data Science and Analytics course for Non-tech Participants
 [Blog](https://intuitivetutorial.com/2021/06/11/linux-terminal-basics/)
 
 [3. GitHub Tutorial]()
+
+[4. Productivity Tools for Researchers](https://github.com/cksajil/DSANonTech/blob/main/Day_5/04_Productivity_Tools_4_Researchers.pdf)
