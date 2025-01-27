@@ -10,7 +10,7 @@ Data Science and Analytics course for Non-tech Participants
 
 [2. Setting up Environment](https://github.com/cksajil/DSANonTech/blob/main/Day_1/02_Setting_Up_Environment.pdf)
 
-[3. Commandline Setup](https://github.com/cksajil/DSANonTech/blob/main/Day_1/03_Command_Line_Setup.pdf)
+[3. Command Line Setup](https://github.com/cksajil/DSANonTech/blob/main/Day_1/03_Command_Line_Setup.pdf)
   
 ## Day 2: Introduction to Python Programming
 [1. Python_Datatypes_Operators.ipynb](https://github.com/cksajil/DSANonTech/blob/main/Day_2/01_Python_Datatypes_Operators.ipynb)
@@ -35,6 +35,7 @@ Data Science and Analytics course for Non-tech Participants
 
 ## Day 5: Data Science Tools
 [1. LaTeXTutorial.pdf](https://github.com/cksajil/DSANonTech/blob/main/Day_5/01_LaTeXTutorial.pdf)
+[Blog](https://intuitivetutorial.com/2020/11/10/latex-tutorial/)
 
 [2. Command Line Basics](https://github.com/cksajil/DSANonTech/blob/main/Day_5/02_Terminal_Basics.pdf)
 
