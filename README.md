@@ -59,4 +59,4 @@ Data Science and Analytics course for Non-tech Participants
 
 [4. TensorFlow Playground](https://playground.tensorflow.org/)
 
-[5. Keyword Spotting Dataset](https://www.kaggle.com/datasets/ksadams/twi-keyword-spotting-dataset-for-iot-application)
+[5. Keyword Spotting Dataset](https://www.kaggle.com/datasets/yashdogra/speech-commands)
