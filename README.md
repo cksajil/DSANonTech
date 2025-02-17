@@ -45,3 +45,16 @@ Data Science and Analytics course for Non-tech Participants
 [3. GitHub Tutorial]()
 
 [4. Productivity Tools for Researchers](https://github.com/cksajil/DSANonTech/blob/main/Day_5/04_Productivity_Tools_4_Researchers.pdf)
+
+
+## No Code Data Science Platforms
+
+[1. Teachable machine](https://teachablemachine.withgoogle.com/)
+
+[2. Mediapipe studio](https://mediapipe-studio.webapps.google.com/home)
+
+[3. Edge Impulse](https://edgeimpulse.com/)
+
+[4. TensorFlow Playground](https://playground.tensorflow.org/)
+
+[5. Keyword Spotting Dataset](https://www.kaggle.com/datasets/ksadams/twi-keyword-spotting-dataset-for-iot-application)
