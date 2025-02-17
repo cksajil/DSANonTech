@@ -33,6 +33,8 @@ Data Science and Analytics course for Non-tech Participants
 
 [2. Logistic_Regression_KNN.ipynb](https://github.com/cksajil/DSANonTech/blob/main/Day_4/02_Logistic_Regression_KNN.ipynb)
 
+[3. Naive_Bayes_Pipeline.ipynb](https://github.com/cksajil/DSANonTech/blob/main/Day_4/03_Naive_Bayes_Pipeline.ipynb)
+
 ## Day 5: Data Science Tools
 [1. LaTeXTutorial.pdf](https://github.com/cksajil/DSANonTech/blob/main/Day_5/01_LaTeXTutorial.pdf)
 
